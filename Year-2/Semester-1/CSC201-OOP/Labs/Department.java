@@ -26,5 +26,4 @@ public Department(String []students , String department ){
         obj.print();
 
     }
-
 }
